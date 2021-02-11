@@ -1,3 +1,4 @@
+此版本为fork版，以下内容为原作者编写
 [winXray 入门小技巧](./sub/introduce.md)   
 [winXray 相关视频列表](https://www.youtube.com/results?search_query=winXray)  
 [网络免费 vmess 服务器订阅链接](https://proxypool.ga/vmess/sub)   
